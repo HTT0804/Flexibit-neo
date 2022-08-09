@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/htt0713/flexibit-init** and click import
+* paste **https://github.com/htt0713/flexibit-neo** and click import
 
 ## Blocks preview
 
